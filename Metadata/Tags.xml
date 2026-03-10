@@ -11,6 +11,8 @@
 			<destination>{bbe390a9-e18f-4195-a0f9-7af30bfb48ca}</destination>
 			<destination>{5387dc49-f89e-498d-8789-f5ad04eadfd9}</destination>
 			<destination>{095bde4b-8e8e-468a-a3d2-acb9c75c8d0e}</destination>
+			<destination>{e685efee-8c15-4eda-b58a-d5ddc1912d84}</destination>
+			<destination>{5205b402-29d5-4839-b1f1-bf4f788ced14}</destination>
 		</relationship>
 	</object>
 	<object class="Tag" id="{efb10652-a274-4514-bb59-37d938e37666}">
@@ -44,6 +46,16 @@
 	<object class="Tag" id="{095bde4b-8e8e-468a-a3d2-acb9c75c8d0e}">
 		<property name="name">
 			<value>world</value>
+		</property>
+	</object>
+	<object class="Tag" id="{e685efee-8c15-4eda-b58a-d5ddc1912d84}">
+		<property name="name">
+			<value>nested</value>
+		</property>
+	</object>
+	<object class="Tag" id="{5205b402-29d5-4839-b1f1-bf4f788ced14}">
+		<property name="name">
+			<value>unused</value>
 		</property>
 	</object>
 </objects>

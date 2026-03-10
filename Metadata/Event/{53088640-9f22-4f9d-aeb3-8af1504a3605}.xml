@@ -166,7 +166,7 @@
 	<object class="MixerBusPanner" id="{9b7a06d6-fc4f-4538-ad4a-96faaff650c6}" />
 	<object class="SingleSound" id="{28404a80-b140-4429-8314-96549732d679}">
 		<property name="start">
-			<value>8</value>
+			<value>2.5</value>
 		</property>
 		<property name="length">
 			<value>5.0101573155102788</value>
@@ -209,7 +209,7 @@
 	</object>
 	<object class="SingleSound" id="{da16c9a9-9c4b-44bc-b21c-eb025beba761}">
 		<property name="start">
-			<value>15.300000000000001</value>
+			<value>9.8000000000000007</value>
 		</property>
 		<property name="length">
 			<value>6.0046458333333312</value>
@@ -226,7 +226,7 @@
 	</object>
 	<object class="SingleSound" id="{41d060db-3aa7-4418-ba03-e2b4495468db}">
 		<property name="start">
-			<value>22.100000000000001</value>
+			<value>18</value>
 		</property>
 		<property name="length">
 			<value>5.3158905562649004</value>
@@ -297,7 +297,7 @@
 	</object>
 	<object class="SingleSound" id="{5bdb1971-e6b1-485e-b0a5-3afbf2872357}">
 		<property name="start">
-			<value>8.1672958513693423</value>
+			<value>2.6672958513693423</value>
 		</property>
 		<property name="length">
 			<value>4.8428614641409364</value>
@@ -308,7 +308,7 @@
 	</object>
 	<object class="SingleSound" id="{fad4f915-7b83-4794-8418-d8b23387c4b7}">
 		<property name="start">
-			<value>15.300000000000001</value>
+			<value>9.8000000000000007</value>
 		</property>
 		<property name="length">
 			<value>6.0046458333333295</value>
@@ -319,7 +319,7 @@
 	</object>
 	<object class="SingleSound" id="{610763a2-eb00-4708-b0cc-6e906a835f6a}">
 		<property name="start">
-			<value>22.650000000000002</value>
+			<value>18.550000000000001</value>
 		</property>
 		<property name="length">
 			<value>4.4499999999999975</value>
@@ -353,7 +353,7 @@
 	</object>
 	<object class="LoopRegion" id="{e5a40acb-92fc-405c-8d9e-4ee02c3d053c}">
 		<property name="position">
-			<value>8.1672958513693423</value>
+			<value>2.6672958513693423</value>
 		</property>
 		<property name="length">
 			<value>4.5168820846162507</value>
@@ -393,10 +393,10 @@
 	</object>
 	<object class="LoopRegion" id="{d8b9da26-b94e-4aaf-83b5-f01e32e8507c}">
 		<property name="position">
-			<value>16.232091737647288</value>
+			<value>11.100000000000001</value>
 		</property>
 		<property name="length">
-			<value>4.1735847087636095</value>
+			<value>2.8499999999999996</value>
 		</property>
 		<property name="looping">
 			<value>2</value>
@@ -416,10 +416,10 @@
 	</object>
 	<object class="LoopRegion" id="{f284d625-fc69-4af0-8fdb-7a9a09f0147b}">
 		<property name="position">
-			<value>22.749883029630247</value>
+			<value>18.649883029630246</value>
 		</property>
 		<property name="length">
-			<value>4.0102887795674214</value>
+			<value>3.2901169703697555</value>
 		</property>
 		<property name="looping">
 			<value>2</value>

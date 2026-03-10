@@ -2,7 +2,7 @@
 	<img width="667" height="309" src=".github/logo.png">
 </p>
 <p align="center">
-	(logo inspired by nailsrails)
+	(logo inspired from PT-EXtracted's logo made by nailsrails)
 </p>
 
 # PT-Resonance

@@ -15,4 +15,4 @@ Base game audio files will be removed upon request from TDP<br>
 - [Pizza Tower FMOD Hot-fix](https://gamebanana.com/tools/19709)
 - [PT-FSPRO-Recreation](https://github.com/Raltyro/PT-FSPRO-Recreation)
 - CheesedUP-FMOD (in this(these) fork(s) obviously.)
-- [eeveeguy56811](https://github.com/eeveeguy56811)'s FMOD improvement in my boyfriend's mod
+- [eeveeguy56811](https://github.com/eeveeguy56811)'s FMOD improvement in my friend's mod
